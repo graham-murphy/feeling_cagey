@@ -10,7 +10,7 @@ gem "sass", "~> 3.2.12"
 gem "bourbon", "~> 3.1.8"
 gem "coffee-script", "~> 2.2.0"
 
-# Media retrieval/processing
+# Media retrieval/processing opencv
 gem 'ruby-opencv', '~> 0.0.13'
 gem "instagram", "~> 0.10.0"
 
