@@ -11,7 +11,7 @@ gem "bourbon", "~> 3.1.8"
 gem "coffee-script", "~> 2.2.0"
 
 # Media retrieval/processing opencv
-gem 'ruby-opencv', '~> 0.0.13'
+gem "opencv", :git => "https://github.com/pcting/ruby-opencv"
 gem "instagram", "~> 0.10.0"
 
 # Pusher
