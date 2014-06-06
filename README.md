@@ -1,3 +1,7 @@
+# INSTAGRAHAM
+
+http://procatinator.com/?cat=122
+
 # Feeling Cagey?
 
 This is a really stupid Ruby application which pulls images with a certain tag from the Instagram API and superimposes Nicolas Cage's face onto them using OpenCV. Here's how to make it work on your machine:
