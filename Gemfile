@@ -11,7 +11,7 @@ gem "bourbon", "~> 3.1.8"
 gem "coffee-script", "~> 2.2.0"
 
 # Media retrieval/processing opencv
-gem "ruby-opencv", github: "ruby-opencv/ruby-opencv"
+gem "ruby-opencv", github: "ruby-opencv/ruby-opencv", require: "opencv", ref: "0d1efe78935261a33f598c84e36b742624098d2c"
 gem "instagram", "~> 0.10.0"
 
 # Pusher
